@@ -13,3 +13,4 @@ Chinese translation of the mod kPlug for the Illusion® game Koikatsu.
 务必要提交错误或不合适翻译的截图，有能力的话可以自行在“BepInEx\plugins\kPlug\Language”文件夹中文翻译内搜索你发现的错误文本，接着在英文或日文官方翻译内对照修正，最后开issues以提交更好的翻译建议。
 
 ## 效果截图
+<img src="https://github.com/EricZhou05/kPlug-zh/blob/main/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-02-19%20102028.png" width="500" height="291"><img src="https://github.com/EricZhou05/kPlug-zh/blob/main/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-02-19%20102037.png" width="500" height="291"><img src="https://github.com/EricZhou05/kPlug-zh/blob/main/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-02-19%20102617.png" width="500" height="291"><img src="https://github.com/EricZhou05/kPlug-zh/blob/main/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-02-19%20103247.png" width="500" height="291"><img src="https://github.com/EricZhou05/kPlug-zh/blob/main/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-02-19%20103919.png" width="500" height="291">
