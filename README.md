@@ -8,7 +8,7 @@ Chinese translation of the mod kPlug for the Illusion® game Koikatsu.
 
 ## 使用方法
 
-该翻译文本适用于由Katarsys编写的[kPlug 3.1 Public Version模组](https://www.patreon.com/posts/kplug-3-1-public-77701587)，使用前需要下载原版文件，按照官方教程安装好后，将发行包解压放入“BepInEx\plugins\kPlug\Language”文件夹，重启游戏后按Del即可在设置中切换中文。
+该翻译文本适用于由Katarsys编写的[kPlug 3.1 Public Version模组](https://www.patreon.com/posts/kplug-3-1-public-77701587)，使用前需要下载原版文件，按照官方教程安装好后，将发行包解压后直接拖入游戏根目录，重启游戏后按Del即可在设置中切换中文。
 ## 翻译修正反馈
 项目由机翻加个人逐条校对完成，难免会有舛误，望多多提交issues便于修正。
 繁体由繁转简工具完成，缺少本地化工作，望多多提交issues便于优化。
